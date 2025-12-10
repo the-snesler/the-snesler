@@ -1,5 +1,5 @@
 ## Heya! 
-I'm Sam, a 20 year old developer from Wisconsin, USA, currently studying Computer Science at UW-Madison. When I'm not programming, you'll find me hiking, mountain biking, reading, tinkering with my old-PC-turned-server, or playing video games. I'm always looking out for new projects that excite me, so feel free to reach out!
+I'm Sam, a 21 year old developer from Wisconsin, USA, currently studying Computer Science at UW-Madison. When I'm not programming, you'll find me hiking, mountain biking, reading, tinkering with my old-PC-turned-server, or playing video games. I'm always looking out for new projects that excite me, so feel free to reach out!
 
 <h3 align="center">What am I up to now?</h3>
 <p align="center"><a href="https://github.com/TetraTsunami/discord-preview"><img width="400" src="https://dsc-readme.tsuni.dev/api/user/214167454291722241?banner=https%3A%2F%2Ftsuni.dev%2Fimages%2Fsobanner.png&theme=nitroLight&primaryColor=8080FF&accentColor=FF80C0"></img></a></p>
